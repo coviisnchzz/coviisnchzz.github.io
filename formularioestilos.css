@@ -1,0 +1,30 @@
+/* Esta es la hoja de estilos del ejemplo */
+body{
+    background-color:rgb(141, 187, 141);
+
+}
+div{
+    width: 45%;
+    display: inline-block;
+    margin: 10 px;
+    padding: 10px;
+}
+h2,h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+h2{
+    font-size: 28 px;
+    color: cornsilk;
+}
+h3 {
+    font-size: 24px;
+    color: cornsilk;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14 px;
+    color: black;
+    font-weight: normal;
+}
